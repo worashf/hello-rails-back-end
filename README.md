@@ -1,24 +1,52 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# hello-rails-back-end
 
-Things you may want to cover:
+> Educational project to build API by Ruby on Rails.
+> Visit [Hello-react-front-end](https://github.com/worashf/hello-react-front-end) to see the ReactJS hello-react-front-end app.
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby 3.1.2
+- Ruby on Rails
+- PostgreSQL
 
-* Configuration
+### Prerequisites
 
-* Database creation
+- Installed Ruby 3.1.2
+- Installed PostgreSQL
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+1.  Clone the 'git@github.com:worashf/hello-rails-back-end.git"
+2.  Navidate to project directory by run cd "hello-rails-back-end"
+3.  Run "bundle install"
+4.  run "rails db:create to PostgreSQl db"
+5.  run "rails db:migrate to migrate the database"
+6.  run "rails start"
 
-* Services (job queues, cache servers, search engines, etc.)
+## Authors
 
-* Deployment instructions
+👤 **Worash**
 
-* ...
+- GitHub: [@githubhandle](https://github.com/worashf)
+- Twitter: [@twitterhandle](https://twitter.com/WorashAboche)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/worash-abocherugn-a02219154/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+
+## 📝 License
+
+This project is [GNU](./LICENSE) licensed.
